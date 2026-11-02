@@ -13,7 +13,7 @@ Content creator and AI-native builder from Brazil, moving to Dublin in December 
 | Repository | What it shows |
 |---|---|
 | [**research-to-article-pipeline**](https://github.com/KauanBrito-AI/research-to-article-pipeline) | LLM pipeline with structured output and two quality gates. The story starts with the AI robot I switched off before launch. |
-| [**photo-privacy-cleaner**](https://github.com/KauanBrito-AI/photo-privacy-cleaner) | Removes GPS, camera data and AI provenance stamps from photos byte by byte: zero quality loss, nothing uploaded. Two real bugs and how they were fixed. |
+| [**photo-privacy-cleaner**](https://github.com/KauanBrito-AI/photo-privacy-cleaner) | Removes GPS, camera data and AI provenance stamps from photos byte by byte: zero quality loss, nothing uploaded. Two real bugs and how they were fixed. **[Try it live](https://kauanbrito-ai.github.io/photo-privacy-cleaner/)** |
 | [**search-console-report**](https://github.com/KauanBrito-AI/search-console-report) | Google and Bing APIs with no SDK, turned into a weekly list of what to fix. Found a sitemap Google had ignored for nine months. |
 
 ---
