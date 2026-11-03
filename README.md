@@ -63,4 +63,4 @@ Most of this runs in production for my own products, so the code stays private. 
 
 ### Elsewhere
 
-[caminhotec.com.br](https://caminhotec.com.br) · [Instagram @caminhotec](https://www.instagram.com/caminhotec/) · [wavecabin.com](https://wavecabin.com) · kauanvb.ti@gmail.com
+[caminhotec.com.br](https://caminhotec.com.br) · [Instagram @caminhotec](https://www.instagram.com/caminhotec/) · [wavecabin.com](https://wavecabin.com) · [LinkedIn](https://www.linkedin.com/in/kauan-victor-brito/) · kauanvb.ti@gmail.com
