@@ -2,7 +2,7 @@
 
 I build working AI systems, and the content that gets people to use them.
 
-Content creator and AI-native builder from Brazil, moving to Dublin in December 2026. As a one-person studio I grew a consumer-tech channel to **107,000+ followers in 18 months**, then built everything behind it by directing AI coding agents (Claude Code, Codex): the website, two paid products, a six-language web app and the automation that runs them. Before that, I worked in political and public-sector marketing (2019–2025).
+Content creator and AI-native builder from Brazil, moving to Dublin in December 2026. As a one-person studio I grew a consumer-tech channel to **107,000+ followers in 18 months**, then built everything behind it by directing AI coding agents (Claude Code, Codex): the website, two paid products, a six-language web app and the automation that runs them. Before that: IT support (2018–2019), then political and public-sector marketing (2019–2025).
 
 **How I work:** I make the product, architecture and quality calls. The agents write most of the code. I review it running in a real browser, and I build checks that run on their own, because "looks fine to me" is not a quality gate.
 
